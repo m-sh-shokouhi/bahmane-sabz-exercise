@@ -1,0 +1,11 @@
+com\example\foodreservation\FoodReservationApplication.class
+com\example\foodreservation\dto\OrderStatus.class
+com\example\foodreservation\model\Order.class
+com\example\foodreservation\repository\UserRepository.class
+com\example\foodreservation\controller\AdminController.class
+com\example\foodreservation\repository\OrderRepository.class
+com\example\foodreservation\model\Food.class
+com\example\foodreservation\model\User.class
+com\example\foodreservation\service\FoodOrderingBot.class
+com\example\foodreservation\dto\FoodRequest.class
+com\example\foodreservation\repository\FoodRepository.class
