@@ -1,4 +1,4 @@
-# Bahmane Sabz job appliance exercise
+# Bahmane Sabz job application exercise
 
 This repo is created in the request of Bahmane-Sabz Company for devops position.
 Five Challenges are requested to be solved in this exercise.
