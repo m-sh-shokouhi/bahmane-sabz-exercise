@@ -20,6 +20,30 @@ README.md
 
 ## Challenge 02: Dockerise Spring boot application
 
+1. Clone the repo in app directory
+
+```shell
+cd apps
+git clone https://github.com/xanibahmansabz-ux/food_bot.git
+```
+
+2. remove unnessary files
+
+```
+cd food_bot
+rm -r .git
+rm .gitignore
+rm .gitattributes
+```
+
+3. Creating Docker file
+
+```Dockerfile
+
+```
+
+4. push the new cloned repo to
+
 ## Challenge 03: Docker compose + MySQL + Monitoring
 
 ## Challenge 04: Optimization, basic security and final report
